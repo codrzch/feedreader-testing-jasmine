@@ -2,12 +2,17 @@
 
 In this project I tested JavaScript code provided by Udacity with Jasmine.
 
-HOW TO LOAD:
+## Preview
+
+![jasmine-testing](https://user-images.githubusercontent.com/32144404/37926164-3f3439e6-30fc-11e8-9ad3-736ef84404f6.jpg)
+
+## How To Load
 
 ---> Clone the repository
+
 ---> Open index.html
 
-INSTRUCTIONS:
+## Instructions
 
 ---> Review the functionality of the application within your browser.
 
